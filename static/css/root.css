@@ -37,7 +37,7 @@
 html {
     /*图片模糊背景＋黑色透明卡片+白色svg**/
     --name: 主题5;
-    --main_bg_color: url(../img/background.jpg);
+    --main_bg_color: url(https://vip.123pan.cn/1843643731/yk6baz03t0m000d7w33ga8uys9oo9uw0DIYxDwQxDwUwDGxPBIevBF==.jpg);
     --main_text_color: #eeeeee;
     --gradient: linear-gradient(120deg, #bd34fe, #e0321b 30%, #41d1ff 60%);
     --purple_text_color: #747bff;
